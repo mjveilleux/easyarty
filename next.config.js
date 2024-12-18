@@ -7,7 +7,7 @@ const nextConfig = {
   experimental: {
     reactCompiler: true,
   },
-  pageExtensions: ['mdx', 'tsx', 'ts'],
+  pageExtensions: ['mdx', 'tsx'],
 };
 
 module.exports = withMDX(nextConfig);
