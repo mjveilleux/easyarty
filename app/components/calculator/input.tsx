@@ -25,5 +25,4 @@ const Input = forwardRef<
     </div>
   );
 });
-
 export default Input;
